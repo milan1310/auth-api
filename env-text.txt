@@ -1,0 +1,2 @@
+MONGODB = mongodb+srv://milan-learning:mk99113072585@cluster0.m8hny.mongodb.net/auth?retryWrites=true&w=majority
+JWT_SCRETE = thisisfuturebeedatastorescrete
