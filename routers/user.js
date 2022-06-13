@@ -39,6 +39,7 @@ router.post('/logout', auth, async( req,res)=> {
         })
 
         await req.user.save();
+        res.send("logged out")
     } catch (error) {
         res.send(500).send();
     }
